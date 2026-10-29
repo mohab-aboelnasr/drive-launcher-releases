@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "4.0",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.0.apk",
-  "size": 355381,
-  "sha256": "9add1acc00e1728749819d39026d581770a9af264d41fe45444a29195205ed6a",
-  "notes": "Driving: speed alert Off/100/120 with sound, hide message text above 60 km/h, break reminder, fog and dust warning. Today's drive and oil change by odometer. Prayer-time pop-ups. Greeting by time of day. Correct time right after start-up. Online updates."
+  "versionCode": 25,
+  "versionName": "4.1",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.1.apk",
+  "size": 359477,
+  "sha256": "3de795e8c4272c9e6002da940c054f0bb5a4c47b2ce8e1e0baf13fab7c3f084d",
+  "notes": "Big player like Android Auto: tap the music card (or Anghami, Radio, Quran) and it fills the screen with big buttons while the map moves to the side. Back or a tap on the map returns. The Quran always shows a sharp Mushaf cover."
 }
