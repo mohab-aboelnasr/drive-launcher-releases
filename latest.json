@@ -1,0 +1,8 @@
+{
+  "versionCode": 24,
+  "versionName": "4.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.0.apk",
+  "size": 355381,
+  "sha256": "e2afc433e768722ba9e8ecaeac5995e4463aef4537b4457a68f17fc74e875402",
+  "notes": "Driving: speed alert Off/100/120 with sound, hide message text above 60 km/h, break reminder, fog and dust warning. Today's drive and oil change by odometer. Prayer-time pop-ups. Greeting by time of day. Correct time right after start-up. Online updates."
+}
