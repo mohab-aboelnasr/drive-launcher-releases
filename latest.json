@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "4.4",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.4.apk",
-  "size": 367669,
-  "sha256": "ab948005d8b04900816de71ed8af937d64ef1d6f5f94d050701f7455fb8fb56e",
-  "notes": "Animated start screen (car rolling in) and a Good morning / afternoon / evening card once the clock is set. Livelier pop-up cards. Bigger arrival card near Home and Work. Full map layout option and big player."
+  "versionCode": 29,
+  "versionName": "4.5",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.5.apk",
+  "size": 379957,
+  "sha256": "a366124a1d3dd05468d8290761cc3a629a7d90f157d16363651e7cbaaa0d2c1b",
+  "notes": "Map turns with the car (arrow always up) and Google-style colours with green parks. Road speed-limit sign next to your speed, plus a 'Road' speed alert. When nothing is playing, the music card shows next prayer, today's drive, weather and oil, with Continue listening. Egypt summer/winter time built in. Faster retry for updates."
 }
