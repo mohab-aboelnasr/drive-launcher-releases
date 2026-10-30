@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "4.8",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.8.apk",
+  "versionCode": 33,
+  "versionName": "5.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-5.0.apk",
   "size": 384195,
-  "sha256": "f5862c1bd53304c5107745a804c68f4be8ba4b6b11a05f9610156fb297ad2cb8",
-  "notes": "The launcher stays in front when the car starts: apps that open by themselves (like the radio) are sent to the back. Spanner icon for service. Move the map with your finger, clearer day colours, 4-hour weather, Fuel nearby, both speed alerts together."
+  "sha256": "d9b0f675c0d2f152b706b77ec3707c9ede9a0fdd9351351dc5760946774e2b7f",
+  "notes": "Drive Launcher 5.0: the colourful map is back. Three tiles under the date: Radio, Mosque nearby and Fuel nearby. The launcher stays in front when the car starts. Move the map with your finger, road speed-limit sign with both alerts, big player, full-map layout option, arrival cards, animated start screen."
 }
