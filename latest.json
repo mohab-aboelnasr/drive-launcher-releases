@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "9.2 Pro",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.2-Pro.apk",
+  "versionCode": 46,
+  "versionName": "9.3 Pro",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.3-Pro.apk",
   "size": 371978,
-  "sha256": "77435724ad1c956067f213d060c9f7870086d827a3122e77cd01baa80be70980",
-  "notes": "Speed-camera alerts now have their own sound from the launcher (three rising beeps over the music, never quieter than level 5). Turn Radarbot's own sound off so it isn't doubled. Includes the dark night map, speed zoom and gliding car."
+  "sha256": "f052f0c1b31112922bf1e444befaba1c5b82d81b17b168009d37ad9dfdaeb961",
+  "notes": "Blue route line on our map when you navigate to Home or Work, worked out again if you take another road. The over-speed pop-up is bigger and sits in the middle of the map instead of under the rail. Speed-camera sound with a level-5 minimum."
 }
