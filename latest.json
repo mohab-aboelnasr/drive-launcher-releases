@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "9.4 Pro",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.4-Pro.apk",
-  "size": 376074,
-  "sha256": "fc3f9c9e793dd699a79a7cf3f86bbf73539284b9e126feb53c16fcb5d20762de",
-  "notes": "Over-speed sound that plays over the music. Speed cameras in Egypt from OpenStreetMap with a red card and sound. 'Where to?' searches places itself so the blue route line works for any trip. Re-centre no longer hides under the cards. Colourful map at night again. Smoother speed reading, and guessed road limits only turn red when clearly exceeded. The big player returns to the map after 25 s."
+  "versionCode": 48,
+  "versionName": "9.5 Pro",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.5-Pro.apk",
+  "size": 384266,
+  "sha256": "cc57625c68d76f266f1cfb19fa1df872aec549688e37f751f5c9354c9ae2e67f",
+  "notes": "Black start screen. Official speed limits by road name (Ring Road 90, Suez Road 100 inside the Ring Road and 120 outside, Sokhna and Desert roads 120, Tito, Kafrawy and Gihan El-Sadat 80, Salah Salem 60...). The road sign turns red as soon as you pass its limit. Alert sounds play on the music channel, with a test button in Settings. One switch for speed-camera alerts (Radarbot) in Quick controls, to turn on for trips. The map now works out the driving direction itself, so it turns with the car even when the GPS direction is wrong. Sturdier blue route line with a second route server."
 }
