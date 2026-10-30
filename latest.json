@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "4.5",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.5.apk",
-  "size": 379957,
-  "sha256": "a366124a1d3dd05468d8290761cc3a629a7d90f157d16363651e7cbaaa0d2c1b",
-  "notes": "Map turns with the car (arrow always up) and Google-style colours with green parks. Road speed-limit sign next to your speed, plus a 'Road' speed alert. When nothing is playing, the music card shows next prayer, today's drive, weather and oil, with Continue listening. Egypt summer/winter time built in. Faster retry for updates."
+  "versionCode": 30,
+  "versionName": "4.6",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.6.apk",
+  "size": 384123,
+  "sha256": "d1ecdaa2956d0b31a47f47f2f89331f2473671582d124a489b7e8a85eaa07a10",
+  "notes": "Move the map with your finger (tap still opens Maps; it follows the car again after 12 s). Clearer day map colours. Weather for the next 4 hours, a smaller Radio tile and 'Fuel nearby'. Tidier idle card with animations. Your speed alert and the road's limit alert work together. A clear 'Check for updates' button in Quick controls."
 }
