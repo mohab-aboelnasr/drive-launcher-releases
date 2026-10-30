@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "4.6",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.6.apk",
-  "size": 384123,
-  "sha256": "d1ecdaa2956d0b31a47f47f2f89331f2473671582d124a489b7e8a85eaa07a10",
-  "notes": "Move the map with your finger (tap still opens Maps; it follows the car again after 12 s). Clearer day map colours. Weather for the next 4 hours, a smaller Radio tile and 'Fuel nearby'. Tidier idle card with animations. Your speed alert and the road's limit alert work together. A clear 'Check for updates' button in Quick controls."
+  "versionCode": 31,
+  "versionName": "4.7",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.7.apk",
+  "size": 384195,
+  "sha256": "8bd99b31552fcecce11db76257a2faccd794b17c7c6574ff97bd9b0eddee94d6",
+  "notes": "Oil change and service now use a spanner icon, like the service light in cars. Includes everything from 4.6: move the map with your finger, clearer day colours, 4-hour weather, Fuel nearby, both speed alerts together."
 }
