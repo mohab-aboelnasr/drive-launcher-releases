@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "6.0",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-6.0.apk",
-  "size": 330947,
-  "sha256": "1bd0607bd460f25d668604caba645c56282f8081ccc0d77c1346e875352c513d",
-  "notes": "Drive Launcher 6.0: tap anywhere on the music card for the big player (it no longer opens Maps). Smaller big player with the map taking 40% of the screen. Road speed limit now works without internet from the saved Egypt map. Animated sun path card (sunrise to sunset, moon at night). Smaller Radio / Mosque / Fuel buttons. New Quran icon."
+  "versionCode": 38,
+  "versionName": "7.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-7.0.apk",
+  "size": 363715,
+  "sha256": "6790888b837502862ac00ab32927c2b4e2cab656f44ea650f3e188cebf2de9bf",
+  "notes": "Drive Launcher 7.0: the launcher's own Quran player with five reciters (Alafasy, Al-Minshawi, Abdul Basit, Al-Husary, Al-Banna), every surah, and Save full Mushaf for listening without internet. Adhkar for the road take turns with the sun card. Wi-Fi button with a quick picker that closes itself, and the head unit rejoins saved Wi-Fi by itself. Shorter big player. Clearer Quran icon. Info pages 30 s after you pause."
 }
