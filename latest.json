@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "7.1",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-7.1.apk",
+  "versionCode": 40,
+  "versionName": "7.2",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-7.2.apk",
   "size": 363715,
-  "sha256": "8cdc1845b2112d5b4a6e925766c6fcb57922054d72f6dbf0e54549e744fe29f8",
-  "notes": "A big animated Good morning / afternoon / evening greeting in the colours of the sky, as soon as the time is known after start-up, with the date, next prayer and weather. Includes 7.0: built-in Quran player with five reciters and full-Mushaf download, adhkar card, Wi-Fi picker and auto-join."
+  "sha256": "22addc0723a8630239e2bd93a6678c66aa38b521d6f9e05e1a5a7f86d36d16d6",
+  "notes": "Quran: three reciters (Alafasy, Abdul Basit, Al-Minshawi) with clean cards; saving the full Mushaf moved to Quick controls. Big animated greeting once the time is known, adhkar card, Wi-Fi picker and auto-join."
 }
