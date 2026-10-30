@@ -1,8 +1,8 @@
 {
-  "versionCode": 40,
-  "versionName": "7.2",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-7.2.apk",
-  "size": 363715,
-  "sha256": "22addc0723a8630239e2bd93a6678c66aa38b521d6f9e05e1a5a7f86d36d16d6",
-  "notes": "Quran: three reciters (Alafasy, Abdul Basit, Al-Minshawi) with clean cards; saving the full Mushaf moved to Quick controls. Big animated greeting once the time is known, adhkar card, Wi-Fi picker and auto-join."
+  "versionCode": 42,
+  "versionName": "8.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-8.0.apk",
+  "size": 367811,
+  "sha256": "334ee125ebaf3fd151a08a38a15780c38bc10b74bc92dfa75b8673ab02a4d5a6",
+  "notes": "Drive Launcher 8.0: Quran opens as a pop-up: big reciter cards with a moving shine, tap one and its surahs slide in, with a back button. In the full-map layout the panels are frosted dark glass over the map (blurred map behind, like Android Auto), and stay dark in daytime while the map stays light."
 }
