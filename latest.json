@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "5.3",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-5.3.apk",
-  "size": 388291,
-  "sha256": "459d626edf3a1a9f941e118fde4406803cc0752c4808eace7539a17d867f6853",
-  "notes": "Tap Anghami or the Quran in the rail: the big player opens at once with the map on the right, and your last song or surah starts. If there's nothing to resume, the app opens so you can pick. Radio card, road-limit corrections, Re-centre button, colourful map."
+  "versionCode": 37,
+  "versionName": "6.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-6.0.apk",
+  "size": 330947,
+  "sha256": "1bd0607bd460f25d668604caba645c56282f8081ccc0d77c1346e875352c513d",
+  "notes": "Drive Launcher 6.0: tap anywhere on the music card for the big player (it no longer opens Maps). Smaller big player with the map taking 40% of the screen. Road speed limit now works without internet from the saved Egypt map. Animated sun path card (sunrise to sunset, moon at night). Smaller Radio / Mosque / Fuel buttons. New Quran icon."
 }
