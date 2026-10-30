@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "9.0 Pro",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.0-Pro.apk",
-  "size": 367811,
-  "sha256": "42c20b130b4655fb2bdba1f4d21d082227f0d1e2eb71633f3be734b65290ff16",
-  "notes": "Drive Launcher 9 Pro: adhkar in the largest text that fits, appearing word by word; bigger, clearer sun card; a gentle shine across the music card every 15 s when it's paused. Includes the Quran pop-up with three reciters, frosted panels in the full-map layout, road speed limits, big player, arrival cards and the animated greeting."
+  "versionCode": 44,
+  "versionName": "9.1 Pro",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.1-Pro.apk",
+  "size": 371978,
+  "sha256": "a5270b964db7f00dd2206d01e19e80d871b15ae6285ad65aeb60c681bfc0f3ba",
+  "notes": "Map: a proper dark night map (from the saved Egypt map), zoom that follows your speed, and the car glides smoothly. Radarbot starts hidden with the car and its camera alerts appear as our own red cards."
 }
