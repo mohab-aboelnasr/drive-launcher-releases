@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "4.3",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.3.apk",
-  "size": 363573,
-  "sha256": "e04e4385030da3d1fc5e2705d57e41e7ad882aab0ed444bc0b5e7864e651910c",
-  "notes": "New: arrival card 400 m from Home or Work — trip time and distance, next prayer and evening weather at work; today, week, oil and missed messages at home. Full map layout option (new Android Auto look). Big player for Anghami, Radio and Quran."
+  "versionCode": 28,
+  "versionName": "4.4",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.4.apk",
+  "size": 367669,
+  "sha256": "ab948005d8b04900816de71ed8af937d64ef1d6f5f94d050701f7455fb8fb56e",
+  "notes": "Animated start screen (car rolling in) and a Good morning / afternoon / evening card once the clock is set. Livelier pop-up cards. Bigger arrival card near Home and Work. Full map layout option and big player."
 }
