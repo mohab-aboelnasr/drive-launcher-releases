@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "9.7 Pro",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.7-Pro.apk",
-  "size": 384266,
-  "sha256": "9cea7ac71cbef4048de719ae2cc366c290a1d517e1efcec46c87148de54b0b3a",
-  "notes": "Google-style guidance on our map: the blue route line shrinks as you drive, every turn has an arrow (the next one big and blue), a red pin marks where you're going, and the car sits lower so you see more road ahead. If you start a trip in Google Maps itself, the launcher asks once where you're going so it can draw the line. Speed-camera cards only for a camera really on the road ahead and getting closer (no more repeats near home); Radarbot's own speed notification no longer counts as a camera; cards say where the alert came from. Black start screen. Official speed limits by road name (Ring Road 90, Suez Road 100 inside the Ring Road and 120 outside, Sokhna and Desert roads 120, Tito, Kafrawy and Gihan El-Sadat 80, Salah Salem 60...). The road sign turns red as soon as you pass its limit. Alert sounds play on the music channel, with a test button in Settings. One switch for speed-camera alerts (Radarbot) in Quick controls, to turn on for trips. The map now works out the driving direction itself, so it turns with the car even when the GPS direction is wrong. Sturdier blue route line with a second route server."
+  "versionCode": 51,
+  "versionName": "9.8 Pro",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.8-Pro.apk",
+  "size": 388362,
+  "sha256": "cdd0c3f0df2e69694c2ae2af4e562afd9a4eea3fff728e93a90e7786ce822e44",
+  "notes": "Home and Work buttons are lit, with a band of light sweeping across them every 12 s. Google-style guidance on our map: the blue route line shrinks as you drive, every turn has an arrow (the next one big and blue), a red pin marks where you're going, and the car sits lower so you see more road ahead. If you start a trip in Google Maps itself, the launcher asks once where you're going so it can draw the line. Speed-camera cards only for a camera really on the road ahead and getting closer (no more repeats near home); Radarbot's own speed notification no longer counts as a camera; cards say where the alert came from. Black start screen. Official speed limits by road name (Ring Road 90, Suez Road 100 inside the Ring Road and 120 outside, Sokhna and Desert roads 120, Tito, Kafrawy and Gihan El-Sadat 80, Salah Salem 60...). The road sign turns red as soon as you pass its limit. Alert sounds play on the music channel, with a test button in Settings. One switch for speed-camera alerts (Radarbot) in Quick controls, to turn on for trips. The map now works out the driving direction itself, so it turns with the car even when the GPS direction is wrong. Sturdier blue route line with a second route server."
 }
