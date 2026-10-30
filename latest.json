@@ -1,8 +1,8 @@
 {
-  "versionCode": 44,
-  "versionName": "9.1 Pro",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.1-Pro.apk",
+  "versionCode": 45,
+  "versionName": "9.2 Pro",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.2-Pro.apk",
   "size": 371978,
-  "sha256": "a5270b964db7f00dd2206d01e19e80d871b15ae6285ad65aeb60c681bfc0f3ba",
-  "notes": "Map: a proper dark night map (from the saved Egypt map), zoom that follows your speed, and the car glides smoothly. Radarbot starts hidden with the car and its camera alerts appear as our own red cards."
+  "sha256": "77435724ad1c956067f213d060c9f7870086d827a3122e77cd01baa80be70980",
+  "notes": "Speed-camera alerts now have their own sound from the launcher (three rising beeps over the music, never quieter than level 5). Turn Radarbot's own sound off so it isn't doubled. Includes the dark night map, speed zoom and gliding car."
 }
