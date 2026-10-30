@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "7.0",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-7.0.apk",
+  "versionCode": 39,
+  "versionName": "7.1",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-7.1.apk",
   "size": 363715,
-  "sha256": "6790888b837502862ac00ab32927c2b4e2cab656f44ea650f3e188cebf2de9bf",
-  "notes": "Drive Launcher 7.0: the launcher's own Quran player with five reciters (Alafasy, Al-Minshawi, Abdul Basit, Al-Husary, Al-Banna), every surah, and Save full Mushaf for listening without internet. Adhkar for the road take turns with the sun card. Wi-Fi button with a quick picker that closes itself, and the head unit rejoins saved Wi-Fi by itself. Shorter big player. Clearer Quran icon. Info pages 30 s after you pause."
+  "sha256": "8cdc1845b2112d5b4a6e925766c6fcb57922054d72f6dbf0e54549e744fe29f8",
+  "notes": "A big animated Good morning / afternoon / evening greeting in the colours of the sky, as soon as the time is known after start-up, with the date, next prayer and weather. Includes 7.0: built-in Quran player with five reciters and full-Mushaf download, adhkar card, Wi-Fi picker and auto-join."
 }
