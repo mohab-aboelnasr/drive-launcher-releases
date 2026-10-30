@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "4.7",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.7.apk",
+  "versionCode": 32,
+  "versionName": "4.8",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.8.apk",
   "size": 384195,
-  "sha256": "8bd99b31552fcecce11db76257a2faccd794b17c7c6574ff97bd9b0eddee94d6",
-  "notes": "Oil change and service now use a spanner icon, like the service light in cars. Includes everything from 4.6: move the map with your finger, clearer day colours, 4-hour weather, Fuel nearby, both speed alerts together."
+  "sha256": "f5862c1bd53304c5107745a804c68f4be8ba4b6b11a05f9610156fb297ad2cb8",
+  "notes": "The launcher stays in front when the car starts: apps that open by themselves (like the radio) are sent to the back. Spanner icon for service. Move the map with your finger, clearer day colours, 4-hour weather, Fuel nearby, both speed alerts together."
 }
