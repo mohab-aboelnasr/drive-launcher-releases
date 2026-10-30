@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "5.0",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-5.0.apk",
+  "versionCode": 34,
+  "versionName": "5.1",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-5.1.apk",
   "size": 384195,
-  "sha256": "d9b0f675c0d2f152b706b77ec3707c9ede9a0fdd9351351dc5760946774e2b7f",
-  "notes": "Drive Launcher 5.0: the colourful map is back. Three tiles under the date: Radio, Mosque nearby and Fuel nearby. The launcher stays in front when the car starts. Move the map with your finger, road speed-limit sign with both alerts, big player, full-map layout option, arrival cards, animated start screen."
+  "sha256": "93e35f9521229d748abc5b1da620ca59cd6e5aa79e5fb974831f4bff9a1f282d",
+  "notes": "Re-centre button after you move the map. Google Maps' voice directions are no longer taken for music, so the music card and big player stay on Anghami / Quran. The colourful map is back; Radio, Mosque and Fuel tiles under the date; the launcher stays in front when the car starts."
 }
