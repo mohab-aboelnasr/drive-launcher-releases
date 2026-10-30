@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "9.3 Pro",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.3-Pro.apk",
-  "size": 371978,
-  "sha256": "f052f0c1b31112922bf1e444befaba1c5b82d81b17b168009d37ad9dfdaeb961",
-  "notes": "Blue route line on our map when you navigate to Home or Work, worked out again if you take another road. The over-speed pop-up is bigger and sits in the middle of the map instead of under the rail. Speed-camera sound with a level-5 minimum."
+  "versionCode": 47,
+  "versionName": "9.4 Pro",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.4-Pro.apk",
+  "size": 376074,
+  "sha256": "fc3f9c9e793dd699a79a7cf3f86bbf73539284b9e126feb53c16fcb5d20762de",
+  "notes": "Over-speed sound that plays over the music. Speed cameras in Egypt from OpenStreetMap with a red card and sound. 'Where to?' searches places itself so the blue route line works for any trip. Re-centre no longer hides under the cards. Colourful map at night again. Smoother speed reading, and guessed road limits only turn red when clearly exceeded. The big player returns to the map after 25 s."
 }
