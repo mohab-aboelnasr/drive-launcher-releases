@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "8.0",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-8.0.apk",
+  "versionCode": 43,
+  "versionName": "9.0 Pro",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-9.0-Pro.apk",
   "size": 367811,
-  "sha256": "334ee125ebaf3fd151a08a38a15780c38bc10b74bc92dfa75b8673ab02a4d5a6",
-  "notes": "Drive Launcher 8.0: Quran opens as a pop-up: big reciter cards with a moving shine, tap one and its surahs slide in, with a back button. In the full-map layout the panels are frosted dark glass over the map (blurred map behind, like Android Auto), and stay dark in daytime while the map stays light."
+  "sha256": "42c20b130b4655fb2bdba1f4d21d082227f0d1e2eb71633f3be734b65290ff16",
+  "notes": "Drive Launcher 9 Pro: adhkar in the largest text that fits, appearing word by word; bigger, clearer sun card; a gentle shine across the music card every 15 s when it's paused. Includes the Quran pop-up with three reciters, frosted panels in the full-map layout, road speed limits, big player, arrival cards and the animated greeting."
 }
