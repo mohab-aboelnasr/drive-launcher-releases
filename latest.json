@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "4.1",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.1.apk",
+  "versionCode": 26,
+  "versionName": "4.2",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-4.2.apk",
   "size": 359477,
-  "sha256": "3de795e8c4272c9e6002da940c054f0bb5a4c47b2ce8e1e0baf13fab7c3f084d",
-  "notes": "Big player like Android Auto: tap the music card (or Anghami, Radio, Quran) and it fills the screen with big buttons while the map moves to the side. Back or a tap on the map returns. The Quran always shows a sharp Mushaf cover."
+  "sha256": "f5f735834d9b6dc0a507f48b1b6e66d44152cb1ec146fec1892a0188cca2c6ef",
+  "notes": "New: Full map layout (Quick controls > Full map layout) — the map fills the screen with see-through panels on top, like the new Android Auto. Big player: tap the music card (or Anghami, Radio, Quran) for big buttons while the map moves aside. Quran always shows a sharp Mushaf cover."
 }
