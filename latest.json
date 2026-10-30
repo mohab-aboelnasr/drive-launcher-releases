@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "5.2",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-5.2.apk",
+  "versionCode": 36,
+  "versionName": "5.3",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-5.3.apk",
   "size": 388291,
-  "sha256": "ce897e6bd78ac33dfdc9686db1d2466a819fe2b47e2c738b75f46c363e34afaa",
-  "notes": "Radio card: after you open the radio, the music card becomes a Radio card with buttons to change station. Long-press the speed-limit sign to set the right limit for that stretch of road; it's remembered. Re-centre button after moving the map. Colourful map, Radio / Mosque / Fuel tiles, launcher first at start-up."
+  "sha256": "459d626edf3a1a9f941e118fde4406803cc0752c4808eace7539a17d867f6853",
+  "notes": "Tap Anghami or the Quran in the rail: the big player opens at once with the map on the right, and your last song or surah starts. If there's nothing to resume, the app opens so you can pick. Radio card, road-limit corrections, Re-centre button, colourful map."
 }
