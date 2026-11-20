@@ -1,8 +1,8 @@
 {
-  "versionCode": 115,
-  "versionName": "19.7",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.7.apk",
+  "versionCode": 116,
+  "versionName": "19.8",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.8.apk",
   "size": 589471,
-  "sha256": "2ae9012666c64d17c3483165899b723ada8ba38ffdf007aefd2cef793a9a5145",
-  "notes": "Car licence, driving licence and insurance reminders: a countdown card a month, two weeks, a week, 3 days and a day before. Dates in Settings > General."
+  "sha256": "abf628279913ecbffb92a803aeca6af72c95263a0489b8d56561030fef2f67db",
+  "notes": "Navigation: tapping Home / Work / School starts Google Maps behind the screen (its voice and traffic) while the map shows the blue line, a green turn card and an arrival bar with Full map and stop. Setting in Map & route."
 }
