@@ -1,8 +1,8 @@
 {
-  "versionCode": 90,
-  "versionName": "16.8",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.8.apk",
+  "versionCode": 91,
+  "versionName": "16.9",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.9.apk",
   "size": 486942,
-  "sha256": "5d7c7be341ce1d5a825065e15a9dde8282ff9e04096f283d09e63eb079ed4615",
-  "notes": "Car Software 16.8: the seatbelt card shows on the map (top left) with a soft 10-second chime; speed cameras now chime softly and faster as you get closer, until you pass them, with the distance counting down on the map; the camera's limit follows the road's official limit (Suez Road 100)."
+  "sha256": "cb7bf8b0684946577f745c19a5db35026ed84e786966bb2bd545b38a6aaab328",
+  "notes": "Car Software 16.9: going over the road's limit now shows a 'Slow down' message on the map with the limit, the screen edges glow red, and it starts at the same moment the number turns red."
 }
