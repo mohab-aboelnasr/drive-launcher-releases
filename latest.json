@@ -1,8 +1,8 @@
 {
-  "versionCode": 97,
-  "versionName": "17.5",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.5.apk",
-  "size": 491038,
-  "sha256": "dc1470c6484ff6cea7e7c4a39001ed331e06a29aea48d4bfc1e2361db63aa54d",
-  "notes": "Fuel range on the Fuel square (hold it when you fill up) with a calm low-fuel note; a break card after 2 hours; don't-forget-your-phone on arrival; a P marker where you parked; Ramadan/Eid greetings and lanterns; rain, fog and dust shown gently in the background with a road tip."
+  "versionCode": 98,
+  "versionName": "17.6",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.6.apk",
+  "size": 499296,
+  "sha256": "652b873c51cc75cf40926c3a14995179e7aefeb6c97cd94c18dd2e2a69601887",
+  "notes": "Parking button on the map bar: tap it for a QR you scan with your phone to walk back to the car. Family birthdays (and a note the day before)."
 }
