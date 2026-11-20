@@ -1,8 +1,8 @@
 {
-  "versionCode": 98,
-  "versionName": "17.6",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.6.apk",
-  "size": 499296,
-  "sha256": "652b873c51cc75cf40926c3a14995179e7aefeb6c97cd94c18dd2e2a69601887",
-  "notes": "Parking button on the map bar: tap it for a QR you scan with your phone to walk back to the car. Family birthdays (and a note the day before)."
+  "versionCode": 99,
+  "versionName": "17.7",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.7.apk",
+  "size": 507551,
+  "sha256": "4afdea64fc426ce3d8fa6e77305f42208b72ba3dc2b205dc15478f0c73981ff5",
+  "notes": "Maintenance mode: lock the screen with a 4-digit PIN while the car is at the service centre (Settings > General). Offered automatically on arrival at Toyota Cairo Festival City."
 }
