@@ -1,8 +1,8 @@
 {
-  "versionCode": 114,
-  "versionName": "19.6",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.6.apk",
-  "size": 585375,
-  "sha256": "e0cd0e5cf3467140a38c4324c3f1eb2f8f6414c6cf569186969b8b716dca1b52",
-  "notes": "Arrival cards and place reminders show only when you're turning in (within 70 m). Sport mode: the car itself is red, wheels spin fast with a red-hot glow, no red light around it."
+  "versionCode": 115,
+  "versionName": "19.7",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.7.apk",
+  "size": 589471,
+  "sha256": "2ae9012666c64d17c3483165899b723ada8ba38ffdf007aefd2cef793a9a5145",
+  "notes": "Car licence, driving licence and insurance reminders: a countdown card a month, two weeks, a week, 3 days and a day before. Dates in Settings > General."
 }
