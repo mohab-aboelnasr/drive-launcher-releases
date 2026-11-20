@@ -1,8 +1,8 @@
 {
-  "versionCode": 99,
-  "versionName": "17.7",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.7.apk",
+  "versionCode": 100,
+  "versionName": "17.8",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.8.apk",
   "size": 507551,
-  "sha256": "4afdea64fc426ce3d8fa6e77305f42208b72ba3dc2b205dc15478f0c73981ff5",
-  "notes": "Maintenance mode: lock the screen with a 4-digit PIN while the car is at the service centre (Settings > General). Offered automatically on arrival at Toyota Cairo Festival City."
+  "sha256": "0a8a0645cc20d8f8190180d287f5c3916c08195abcd2a77552c3980aa431f4e8",
+  "notes": "Clock and date on the Maintenance mode screen."
 }
