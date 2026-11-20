@@ -1,8 +1,8 @@
 {
-  "versionCode": 83,
-  "versionName": "16.1",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.1.apk",
-  "size": 478750,
-  "sha256": "a655d0afb6adda56082819530411456ced9c2109febdc91d2f5b00e094d3c1e4",
-  "notes": "Car Software 16.1: speed panel next to the car, Home / Work / School buttons, speed-camera card on the map, day and night looks, accent colours, standby screen, welcome sound, a sky that follows the time of day, new work and arrival cards."
+  "versionCode": 84,
+  "versionName": "16.2",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.2.apk",
+  "size": 482846,
+  "sha256": "51548663f1aaf8e097a0df2bdd545abc7d8f94c4c73a74c8cc8189916af79a1b",
+  "notes": "Car Software 16.2: reminders at places (long-press the map > Remind me when I arrive here), a soft bell with every pop-up, and Settings > General > Update now does it in one tap."
 }
