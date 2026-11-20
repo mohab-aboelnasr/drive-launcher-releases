@@ -1,8 +1,8 @@
 {
-  "versionCode": 116,
-  "versionName": "19.8",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.8.apk",
+  "versionCode": 117,
+  "versionName": "19.9",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.9.apk",
   "size": 589471,
-  "sha256": "abf628279913ecbffb92a803aeca6af72c95263a0489b8d56561030fef2f67db",
-  "notes": "Navigation: tapping Home / Work / School starts Google Maps behind the screen (its voice and traffic) while the map shows the blue line, a green turn card and an arrival bar with Full map and stop. Setting in Map & route."
+  "sha256": "5cd3fe5f489a358bd5eb667e9db6e02e1a24d4b23d97753581dcdc4a7285bdaf",
+  "notes": "School is its own route now (no longer school then work)."
 }
