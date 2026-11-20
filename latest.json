@@ -1,8 +1,8 @@
 {
-  "versionCode": 89,
-  "versionName": "16.7",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.7.apk",
+  "versionCode": 90,
+  "versionName": "16.8",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.8.apk",
   "size": 486942,
-  "sha256": "26a16e362a93f67bbbf04fa6d044186be034cb39b04485a4a7b9d52875bb9990",
-  "notes": "Car Software 16.7: speed shown like the car's dashboard (+4 km/h, 0 when stopped); over the limit the screen's edges glow softly red instead of a pop-up; road signs always have the red ring; a 'Ready to go? seatbelt & doors' card the first time you pass 20 km/h; the camera card on the map is on one line."
+  "sha256": "5d7c7be341ce1d5a825065e15a9dde8282ff9e04096f283d09e63eb079ed4615",
+  "notes": "Car Software 16.8: the seatbelt card shows on the map (top left) with a soft 10-second chime; speed cameras now chime softly and faster as you get closer, until you pass them, with the distance counting down on the map; the camera's limit follows the road's official limit (Suez Road 100)."
 }
