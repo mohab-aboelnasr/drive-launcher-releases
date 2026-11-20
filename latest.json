@@ -1,8 +1,8 @@
 {
-  "versionCode": 88,
-  "versionName": "16.6",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.6.apk",
-  "size": 482846,
-  "sha256": "7ff389b6ef5692bad8a368a9f53f72fb66215f2d855c0c760b8ab2d1e1df92fb",
-  "notes": "Car Software 16.6: Quran, Live TV and the apps list open properly over the new home again; tapping Anghami or the Quran shows a big Now Playing card (with Open app); Live TV plays on the right side of the home screen."
+  "versionCode": 89,
+  "versionName": "16.7",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.7.apk",
+  "size": 486942,
+  "sha256": "26a16e362a93f67bbbf04fa6d044186be034cb39b04485a4a7b9d52875bb9990",
+  "notes": "Car Software 16.7: speed shown like the car's dashboard (+4 km/h, 0 when stopped); over the limit the screen's edges glow softly red instead of a pop-up; road signs always have the red ring; a 'Ready to go? seatbelt & doors' card the first time you pass 20 km/h; the camera card on the map is on one line."
 }
