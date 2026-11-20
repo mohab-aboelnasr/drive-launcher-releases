@@ -1,8 +1,8 @@
 {
-  "versionCode": 103,
-  "versionName": "18.1",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.1.apk",
+  "versionCode": 104,
+  "versionName": "18.2",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.2.apk",
   "size": 577183,
-  "sha256": "ad149407b6d3640afb978b137c8d997dc23a82ddc8ceceb5d553430abefe9295",
-  "notes": "Speed shows -- and 'Waiting for GPS' until GPS is found; GPS jumps filtered. Camera alerts use the same limit as the map. Unknown roads show no limit instead of 120; city trunk roads 90. New greeting card. Music card animates and takes the song's colours. Bigger one-tap update button on the map."
+  "sha256": "75ba4072b0be40cddff71ce3d2291e2e086dd1295b2309051cd1533653910d10",
+  "notes": "Bold speed. Speed cameras always show, but sound + a short voice warning only when you're over the camera's limit in the last 250 m. Unknown road limit: a white sign with --."
 }
