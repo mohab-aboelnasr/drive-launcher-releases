@@ -1,8 +1,8 @@
 {
-  "versionCode": 96,
-  "versionName": "17.4",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.4.apk",
-  "size": 486942,
-  "sha256": "3e15128912b92f2384bbc06f57c252958efc45af5378530fca7bae253400e4cf",
-  "notes": "Car Software 17.4: the standby screen with your car now waits until you've been parked for 10 minutes."
+  "versionCode": 97,
+  "versionName": "17.5",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.5.apk",
+  "size": 491038,
+  "sha256": "dc1470c6484ff6cea7e7c4a39001ed331e06a29aea48d4bfc1e2361db63aa54d",
+  "notes": "Fuel range on the Fuel square (hold it when you fill up) with a calm low-fuel note; a break card after 2 hours; don't-forget-your-phone on arrival; a P marker where you parked; Ramadan/Eid greetings and lanterns; rain, fog and dust shown gently in the background with a road tip."
 }
