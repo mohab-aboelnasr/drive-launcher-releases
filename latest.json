@@ -1,8 +1,8 @@
 {
-  "versionCode": 93,
-  "versionName": "17.1",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.1.apk",
+  "versionCode": 94,
+  "versionName": "17.2",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.2.apk",
   "size": 486942,
-  "sha256": "11ee433b0d0152c4c6e2853f0f12a80af582728545537d6b61b4fae90c7f4694",
-  "notes": "Car Software 17.1: the shown speed is now 2 km/h above GPS (like the dashboard), 0 when stopped."
+  "sha256": "b490db8518d0155ad14d2070f327194123747e5d2a9ad7c35df58a90003f7427",
+  "notes": "Car Software 17.2: every road shows its own limit again (official ones first, then signposted, then the usual limit for that kind of road); camera sounds are softer and only start in the last 250 m; the camera list refreshes once with this update."
 }
