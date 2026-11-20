@@ -1,8 +1,8 @@
 {
-  "versionCode": 106,
-  "versionName": "18.4",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.4.apk",
-  "size": 577183,
-  "sha256": "684a553f5f4befb49aca2c2528edc82d3d3687ba727ca89778ff0ee335d5ce3f",
-  "notes": "Speed scale under the speed (0-160 with the limit marked). The seatbelt reminder comes back for every drive (after 3 minutes parked) and isn't hidden by the greeting."
+  "versionCode": 107,
+  "versionName": "18.5",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.5.apk",
+  "size": 581279,
+  "sha256": "ee7608190981be1e74ccd6850b0360b96384731d9ad703a750eab376e52dcaf7",
+  "notes": "Break reminders on long drives: after 1.5 hours, then every 45 minutes, with a short voice reminder; a 15-minute stop starts over."
 }
