@@ -1,8 +1,8 @@
 {
-  "versionCode": 101,
-  "versionName": "17.9",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.9.apk",
-  "size": 507551,
-  "sha256": "6ac34a26ebec86b5eb100c291191a8c763826c42ec9901af9a97e9ffb35748f2",
-  "notes": "Maintenance mode: Customer notes for the service centre (edit them in Settings > General) and the odometer on the lock screen."
+  "versionCode": 102,
+  "versionName": "18.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.0.apk",
+  "size": 577183,
+  "sha256": "97e55c024ac15e264f7817a807223d7e2d0171836eae5f6fe1fe4b075626d761",
+  "notes": "The Quran shortcut is named Quran with a new Mushaf icon. Hold any shortcut for: Change app / Show as Quran."
 }
