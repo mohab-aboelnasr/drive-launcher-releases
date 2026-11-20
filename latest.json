@@ -1,8 +1,8 @@
 {
-  "versionCode": 113,
-  "versionName": "19.5",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.5.apk",
+  "versionCode": 114,
+  "versionName": "19.6",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.6.apk",
   "size": 585375,
-  "sha256": "f57444775ee58907c37563b4f172779741c209f6c6d020dc558583fcb4243c1d",
-  "notes": "Smarter arrival cards for home and work: an animated scene, how the drive compares with your usual time, counting numbers, and fuel / weather / prayer / phone chips. Place reminders play a melody only (no voice)."
+  "sha256": "e0cd0e5cf3467140a38c4324c3f1eb2f8f6414c6cf569186969b8b716dca1b52",
+  "notes": "Arrival cards and place reminders show only when you're turning in (within 70 m). Sport mode: the car itself is red, wheels spin fast with a red-hot glow, no red light around it."
 }
