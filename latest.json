@@ -1,8 +1,8 @@
 {
-  "versionCode": 91,
-  "versionName": "16.9",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.9.apk",
+  "versionCode": 92,
+  "versionName": "17.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.0.apk",
   "size": 486942,
-  "sha256": "cb7bf8b0684946577f745c19a5db35026ed84e786966bb2bd545b38a6aaab328",
-  "notes": "Car Software 16.9: going over the road's limit now shows a 'Slow down' message on the map with the limit, the screen edges glow red, and it starts at the same moment the number turns red."
+  "sha256": "f5d028923d5c48121d47cec28ed83640634f18d7c1c63509bece74561b1d4043",
+  "notes": "Car Software 17.0: every pop-down card now has the new navy look; the red edge when you're over the limit is lighter and fades after a few seconds (the Slow down message on the map stays until you slow down)."
 }
