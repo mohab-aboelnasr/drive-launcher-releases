@@ -1,8 +1,8 @@
 {
-  "versionCode": 109,
-  "versionName": "19.1",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.1.apk",
+  "versionCode": 110,
+  "versionName": "19.2",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.2.apk",
   "size": 581279,
-  "sha256": "883b5b0c9df5c1be0aaf92fe03ffc793e9e92aeca5dd7ed5a7dee6241150c2b9",
-  "notes": "Seatbelt and lock card sized to fit inside the map, in the middle."
+  "sha256": "224ada3d889ff057012ff896406585c9b3b736ef47a61ec182a41fbbc6aba99e",
+  "notes": "Sport mode: tap the car (or the SPORT button) for Normal / Sport. Sport turns the screen and the car red with fire at the tyres, and turns off the over-speed warnings. The P parking sign stays upright on the map."
 }
