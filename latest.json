@@ -1,8 +1,8 @@
 {
-  "versionCode": 102,
-  "versionName": "18.0",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.0.apk",
+  "versionCode": 103,
+  "versionName": "18.1",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.1.apk",
   "size": 577183,
-  "sha256": "97e55c024ac15e264f7817a807223d7e2d0171836eae5f6fe1fe4b075626d761",
-  "notes": "The Quran shortcut is named Quran with a new Mushaf icon. Hold any shortcut for: Change app / Show as Quran."
+  "sha256": "ad149407b6d3640afb978b137c8d997dc23a82ddc8ceceb5d553430abefe9295",
+  "notes": "Speed shows -- and 'Waiting for GPS' until GPS is found; GPS jumps filtered. Camera alerts use the same limit as the map. Unknown roads show no limit instead of 120; city trunk roads 90. New greeting card. Music card animates and takes the song's colours. Bigger one-tap update button on the map."
 }
