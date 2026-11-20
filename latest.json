@@ -1,8 +1,8 @@
 {
-  "versionCode": 107,
-  "versionName": "18.5",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.5.apk",
+  "versionCode": 108,
+  "versionName": "19.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.0.apk",
   "size": 581279,
-  "sha256": "ee7608190981be1e74ccd6850b0360b96384731d9ad703a750eab376e52dcaf7",
-  "notes": "Break reminders on long drives: after 1.5 hours, then every 45 minutes, with a short voice reminder; a 15-minute stop starts over."
+  "sha256": "8e1624e789d42bb573aa15142109802e9ff0bedc33b9bb85a0382dfd553d93f4",
+  "notes": "Seatbelt and door-lock card bigger, in the middle of the map, with moving icons. The car drives in again every 90 seconds. The speed scale no longer runs into the car."
 }
