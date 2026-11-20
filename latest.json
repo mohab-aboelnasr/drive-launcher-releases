@@ -1,8 +1,8 @@
 {
-  "versionCode": 85,
-  "versionName": "16.3",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.3.apk",
+  "versionCode": 86,
+  "versionName": "16.4",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-16.4.apk",
   "size": 482846,
-  "sha256": "d3a895099291ca76f6831475c2b13a726886591b2dfc15cc24d6c4c2e236c121",
-  "notes": "Car Software 16.3: the radio has its own look again — frequency, level meter and a tuning dial with a moving needle (sunset by day, starry by night); the speed panel no longer runs into the trip figures."
+  "sha256": "ee18435f8034ebd5d409ecc0f3f594899329305c6f1aaea65466d4545b42f1c0",
+  "notes": "Car Software 16.4: the home screen fills the whole display (no empty strip at the bottom), plus the new radio look and the speed panel fix from 16.3."
 }
