@@ -1,8 +1,8 @@
 {
-  "versionCode": 95,
-  "versionName": "17.3",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.3.apk",
+  "versionCode": 96,
+  "versionName": "17.4",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.4.apk",
   "size": 486942,
-  "sha256": "5f11fbc7c05e126e3ac48b6f2eb4eaa094f698418da5f5696db1c2dc896f8384",
-  "notes": "Car Software 17.3: quieter — pop-down cards no longer ring, and the remaining sounds (camera, seatbelt, taps) are softer; built-in place reminders can be set up from a Google Maps link."
+  "sha256": "3e15128912b92f2384bbc06f57c252958efc45af5378530fca7bae253400e4cf",
+  "notes": "Car Software 17.4: the standby screen with your car now waits until you've been parked for 10 minutes."
 }
