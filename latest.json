@@ -1,8 +1,8 @@
 {
-  "versionCode": 111,
-  "versionName": "19.3",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.3.apk",
-  "size": 581279,
-  "sha256": "c43e6397083f77744789d28c54203caf2723cb8a8f5d44f39c8c7f40be83f589",
-  "notes": "Seatbelt card now waits until the map can show it. Calmer Sport look. Green Normal / red Sport chooser, animated; the label above the car says NORMAL or SPORT. Status chip moved up."
+  "versionCode": 112,
+  "versionName": "19.4",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.4.apk",
+  "size": 585375,
+  "sha256": "e01ba75167d560ff16a75eb3b339e819ffe709097e0386543f9e78a7f3676e35",
+  "notes": "Arrival cards (home / work) work even after an update or restart on the way; place reminders fire within 220 m. A short melody plays when you arrive and before a reminder is read out."
 }
