@@ -1,8 +1,8 @@
 {
-  "versionCode": 92,
-  "versionName": "17.0",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.0.apk",
+  "versionCode": 93,
+  "versionName": "17.1",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.1.apk",
   "size": 486942,
-  "sha256": "f5d028923d5c48121d47cec28ed83640634f18d7c1c63509bece74561b1d4043",
-  "notes": "Car Software 17.0: every pop-down card now has the new navy look; the red edge when you're over the limit is lighter and fades after a few seconds (the Slow down message on the map stays until you slow down)."
+  "sha256": "11ee433b0d0152c4c6e2853f0f12a80af582728545537d6b61b4fae90c7f4694",
+  "notes": "Car Software 17.1: the shown speed is now 2 km/h above GPS (like the dashboard), 0 when stopped."
 }
