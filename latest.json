@@ -1,8 +1,8 @@
 {
-  "versionCode": 112,
-  "versionName": "19.4",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.4.apk",
+  "versionCode": 113,
+  "versionName": "19.5",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.5.apk",
   "size": 585375,
-  "sha256": "e01ba75167d560ff16a75eb3b339e819ffe709097e0386543f9e78a7f3676e35",
-  "notes": "Arrival cards (home / work) work even after an update or restart on the way; place reminders fire within 220 m. A short melody plays when you arrive and before a reminder is read out."
+  "sha256": "f57444775ee58907c37563b4f172779741c209f6c6d020dc558583fcb4243c1d",
+  "notes": "Smarter arrival cards for home and work: an animated scene, how the drive compares with your usual time, counting numbers, and fuel / weather / prayer / phone chips. Place reminders play a melody only (no voice)."
 }
