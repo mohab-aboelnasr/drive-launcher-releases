@@ -1,8 +1,8 @@
 {
-  "versionCode": 94,
-  "versionName": "17.2",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.2.apk",
+  "versionCode": 95,
+  "versionName": "17.3",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-17.3.apk",
   "size": 486942,
-  "sha256": "b490db8518d0155ad14d2070f327194123747e5d2a9ad7c35df58a90003f7427",
-  "notes": "Car Software 17.2: every road shows its own limit again (official ones first, then signposted, then the usual limit for that kind of road); camera sounds are softer and only start in the last 250 m; the camera list refreshes once with this update."
+  "sha256": "5f11fbc7c05e126e3ac48b6f2eb4eaa094f698418da5f5696db1c2dc896f8384",
+  "notes": "Car Software 17.3: quieter — pop-down cards no longer ring, and the remaining sounds (camera, seatbelt, taps) are softer; built-in place reminders can be set up from a Google Maps link."
 }
