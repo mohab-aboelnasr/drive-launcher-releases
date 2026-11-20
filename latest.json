@@ -1,8 +1,8 @@
 {
-  "versionCode": 117,
-  "versionName": "19.9",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.9.apk",
+  "versionCode": 118,
+  "versionName": "20.0",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-20.0.apk",
   "size": 589471,
-  "sha256": "5cd3fe5f489a358bd5eb667e9db6e02e1a24d4b23d97753581dcdc4a7285bdaf",
-  "notes": "School is its own route now (no longer school then work)."
+  "sha256": "01686796dd7106594035930b553755b96cd3994e5892a7a2812a99a10680e1f5",
+  "notes": "The route ends by itself when you arrive or when Google Maps finishes guiding; no need to tap stop."
 }
