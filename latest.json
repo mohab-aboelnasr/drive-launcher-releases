@@ -1,8 +1,8 @@
 {
-  "versionCode": 104,
-  "versionName": "18.2",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.2.apk",
+  "versionCode": 105,
+  "versionName": "18.3",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-18.3.apk",
   "size": 577183,
-  "sha256": "75ba4072b0be40cddff71ce3d2291e2e086dd1295b2309051cd1533653910d10",
-  "notes": "Bold speed. Speed cameras always show, but sound + a short voice warning only when you're over the camera's limit in the last 250 m. Unknown road limit: a white sign with --."
+  "sha256": "51e6af8b0f99b2cd936a4fcb3d68905e2e92991951647f38dff31c1bf8fdf7a9",
+  "notes": "Slow down shows in the middle of the map, a little bigger."
 }
