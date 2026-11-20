@@ -1,8 +1,8 @@
 {
-  "versionCode": 108,
-  "versionName": "19.0",
-  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.0.apk",
+  "versionCode": 109,
+  "versionName": "19.1",
+  "apk": "https://raw.githubusercontent.com/mohab-aboelnasr/drive-launcher-releases/main/DriveLauncher-19.1.apk",
   "size": 581279,
-  "sha256": "8e1624e789d42bb573aa15142109802e9ff0bedc33b9bb85a0382dfd553d93f4",
-  "notes": "Seatbelt and door-lock card bigger, in the middle of the map, with moving icons. The car drives in again every 90 seconds. The speed scale no longer runs into the car."
+  "sha256": "883b5b0c9df5c1be0aaf92fe03ffc793e9e92aeca5dd7ed5a7dee6241150c2b9",
+  "notes": "Seatbelt and lock card sized to fit inside the map, in the middle."
 }
